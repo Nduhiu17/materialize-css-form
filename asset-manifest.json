@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/materialize-css-form/static/css/main.a3540e59.chunk.css",
+    "main.js": "/materialize-css-form/static/js/main.b6ce760e.chunk.js",
+    "main.js.map": "/materialize-css-form/static/js/main.b6ce760e.chunk.js.map",
+    "runtime-main.js": "/materialize-css-form/static/js/runtime-main.a110b938.js",
+    "runtime-main.js.map": "/materialize-css-form/static/js/runtime-main.a110b938.js.map",
+    "static/js/2.d97be5f9.chunk.js": "/materialize-css-form/static/js/2.d97be5f9.chunk.js",
+    "static/js/2.d97be5f9.chunk.js.map": "/materialize-css-form/static/js/2.d97be5f9.chunk.js.map",
+    "index.html": "/materialize-css-form/index.html",
+    "precache-manifest.74bbe043d44911a8d7953f86e625a837.js": "/materialize-css-form/precache-manifest.74bbe043d44911a8d7953f86e625a837.js",
+    "service-worker.js": "/materialize-css-form/service-worker.js",
+    "static/css/main.a3540e59.chunk.css.map": "/materialize-css-form/static/css/main.a3540e59.chunk.css.map",
+    "static/js/2.d97be5f9.chunk.js.LICENSE.txt": "/materialize-css-form/static/js/2.d97be5f9.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/materialize-css-form/static/media/image.2b7f244a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a110b938.js",
+    "static/js/2.d97be5f9.chunk.js",
+    "static/css/main.a3540e59.chunk.css",
+    "static/js/main.b6ce760e.chunk.js"
+  ]
+}
